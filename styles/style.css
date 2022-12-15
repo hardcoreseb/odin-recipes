@@ -10,3 +10,11 @@ h1 {
     width: 800px;
     height: auto;
 }
+
+img {
+    max-width: 30%;
+}
+
+li {
+    margin-bottom: 15px;
+}
