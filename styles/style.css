@@ -18,3 +18,7 @@ img {
 li {
     margin-bottom: 15px;
 }
+
+p, li {
+    max-width: 60rem;
+}
